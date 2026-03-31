@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1774939951382,
+      "tag": "0000_oval_fabian_cortez",
+      "breakpoints": true
+    }
+  ]
+}
